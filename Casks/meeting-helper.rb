@@ -1,6 +1,6 @@
 cask "meeting-helper" do
-  version "2026.01.04-9487b0f"
-  sha256 "8665e5efc65c98bb67d702c74e00131beb58084b7630ddf47d80573cc08cb934"
+  version "2026.01.04-b5b7e67"
+  sha256 "044341f8cdbda89eab8f61cf13555c01d0becedccdd52c7a22d09fa8d19dd772"
 
   url "https://github.com/kcrong/meetinghelper/releases/download/v#{version}/MeetingHelper.dmg"
   name "Meeting Helper"
